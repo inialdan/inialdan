@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Aldan Rizki Santosa. IT Full-Stack Developer. I have experienced with Web App Development, Android App Development using
-Yii2 Framework, Kotlin/Java.
+I am Aldan Rizki Santosa. IT Full-Stack Developer. I live in Bogor, Jawa Barat, Indonesia. I have experienced with Web App Development using Yii2 Framework, Yii2 RESTfull API, Android App Development using Kotlin/Java.
 
 📫 You can reach me on:
 - LinkedIn: [Aldan Rizki Santosa ](https://www.linkedin.com/in/inialdan)

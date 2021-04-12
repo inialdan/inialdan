@@ -9,7 +9,6 @@ I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. IT Full-Stack Develope
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/php.png"></code>
 
 * Experienced in `Website`, `Android` development.
-* Experienced in `Android` development.
 * Also interested in `iOS`, `Robotic`, `IoT` development.
 * 
 📫 You can reach me on:

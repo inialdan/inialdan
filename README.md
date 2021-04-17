@@ -24,7 +24,8 @@ I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. IT Full-Stack Develope
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/inialdan)
 
 ### 📫 You can reach me on:
-- LinkedIn: [Aldan Rizki Santosa ](https://www.linkedin.com/in/inialdan)
+- LinkedIn: [Aldan Rizki Santosa](https://www.linkedin.com/in/inialdan)
+- Medium: [inialdan](https://inialdan.medium.com/)
 - Facebook: [Aldan Rizki Santosa](https://www.facebook.com/inialdan)
 - Instagram: [Aldan Rizki Santosa](https://www.instagram.com/inialdan)
 - Twitter: [Aldan Rizki Santosa](https://twitter.com/inialdan)

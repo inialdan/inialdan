@@ -30,4 +30,4 @@ I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. Android Developer. I l
 - Instagram: [Aldan Rizki Santosa](https://www.instagram.com/inialdan)
 - Twitter: [Aldan Rizki Santosa](https://twitter.com/inialdan)
 
-# You can see my full portfolio in my [Website](https://aldan.id/)
+## You can see my full portfolio in my [Website](https://aldan.id/)

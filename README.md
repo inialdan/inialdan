@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. IT Full-Stack Developer. I live in Bogor, Jawa Barat, Indonesia. I have experienced with Web App Development using Yii2 Framework, Yii2 RESTfull API, Android App Development using Kotlin and Java.
+I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. Android Developer. I live in Bogor, Jawa Barat, Indonesia. I have experienced with Web App Development using Yii2 Framework, Yii2 RESTfull API, Android App Development using Kotlin and Java.
 
 ### :gear: Language and Tools 
 
@@ -30,4 +30,4 @@ I am <a href="https://aldan.id/">Aldan Rizki Santosa</a>. IT Full-Stack Develope
 - Instagram: [Aldan Rizki Santosa](https://www.instagram.com/inialdan)
 - Twitter: [Aldan Rizki Santosa](https://twitter.com/inialdan)
 
-You can see my full portfolio in my [Website](https://aldan.id/)
+# You can see my full portfolio in my [Website](https://aldan.id/)
